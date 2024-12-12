@@ -62,6 +62,11 @@ ASWMS is an innovative project aimed at revolutionizing waste management in urba
    - Use `docker-compose up` for local testing.
    - For production, deploy using Kubernetes manifests in `/deployment`.
 
+## Deployment and Monitoring
+Scalable Infrastructure: Use Kubernetes on AWS for deployment, ensuring the system scales with city size and data volume.
+Monitoring: Implement comprehensive logging, alerting systems using Prometheus and Grafana for system health and performance metrics.
+
+
 ## Project Impact
 - Environmental: Reduced carbon emissions through optimized routes, increased recycling efficiency.
 - Economic : Significant savings in operational costs, potential new revenue streams from recycling.
