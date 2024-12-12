@@ -67,11 +67,6 @@ ASWMS is an innovative project aimed at revolutionizing waste management in urba
 - Economic : Significant savings in operational costs, potential new revenue streams from recycling.
 - Social : Improved public health due to less waste overflow, community empowerment through education.
 
-## Documentation
-- [Detailed System Design](docs/system_design.pdf)
-- [Impact Report](docs/impact_report.pdf)
-- [User Manual for App](docs/user_manual.pdf)
-
 ## Future Work
 - Scalability : Expand to handle waste management in larger cities or multiple cities.
 - Integration : Incorporate more external data sources like weather forecasts, city events for better predictions.
